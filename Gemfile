@@ -15,7 +15,7 @@ gem "mocha", :group => :test
 
 #for Paperclip to use Amazon S3  
 gem "aws-sdk"
-gem "aws-s3"
+
 
 #for nested folders
 gem "acts_as_tree"
